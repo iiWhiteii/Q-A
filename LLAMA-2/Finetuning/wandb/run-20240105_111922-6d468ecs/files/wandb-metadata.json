@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-01-05T16:19:23.329805",
+    "startedAt": "2024-01-05T16:19:22.135186",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Finetuning/Finetuning_10_labels.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Spurthi/Anote_Winternship/Q-A",
+    "git": {
+        "remote": "https://github.com/Whiteii/Q-A",
+        "commit": "6e750473a3df2d5abf7208e8ce1aed15444a4c03"
+    },
+    "email": "spurthi.setty@gmail.com",
+    "host": "Spurthi-Laptop",
+    "username": "spurt",
+    "executable": "C:\\Users\\spurt\\.conda\\envs\\Anote\\python.exe",
+    "cpu_count": 10,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1700.0,
+        "min": 0.0,
+        "max": 1700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1700.0,
+            "min": 0.0,
+            "max": 1700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1844.7998008728027,
+            "used": 715.7068672180176
+        }
+    },
+    "memory": {
+        "total": 63.6921272277832
+    }
+}
