@@ -12,8 +12,23 @@ We adopted an active learning strategy tailored for question-answering tasks. By
 
 # Model Overview 
 
+## GPT 3.5 Turbo 
 
+
+## GPT4ALL 
+
+
+## Claude 
+
+
+## LLAMA-2
 
 
 # Datasets 
+
+
+# Findings 
+
+
+# Benchmark
 
