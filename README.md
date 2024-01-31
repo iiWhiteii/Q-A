@@ -7,7 +7,7 @@ The Anote Q-A project is driven by the goal of understanding the baseline perfor
 
 
 
-# Model Overview 
+
 
 ## GPT 3.5 Turbo 
 
@@ -27,5 +27,5 @@ The Anote Q-A project is driven by the goal of understanding the baseline perfor
 # Findings 
 
 
-# Benchmark
+
 
